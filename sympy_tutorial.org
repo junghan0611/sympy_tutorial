@@ -1,0 +1,5 @@
+#+TITLE: Sympy Tutorial
+#+SUBTITLE:
+#+AUTHOR: Junghan Kim
+#+EMAIL: junghanacs@gmail.com
+#+date: <2024-12-11 Wed 12:15>
